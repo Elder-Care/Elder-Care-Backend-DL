@@ -21,4 +21,3 @@ while success > 0:
     numOfFrame += numOfFrame
 
 cameraCapture.release()
-#pushing test
